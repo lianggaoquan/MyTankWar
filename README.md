@@ -1,3 +1,3 @@
 # MyTankWar
-
-A silly and simple tank war game,if you think it's silly enough , then give it a star!
+Java实现的坦克大战小游戏
+编译环境:Java 9 + IntelliJ IDEA
